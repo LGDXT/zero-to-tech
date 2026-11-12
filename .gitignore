@@ -17,3 +17,7 @@ dist/
 .DS_Store
 *.log
 .env*
+
+backend/_pycache_/
+backend/.venv
+*.pyc
